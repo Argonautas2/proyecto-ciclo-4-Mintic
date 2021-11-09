@@ -8,9 +8,9 @@ const index = () => {
    <div>
 
       <div> pagina de admin de usuarios </div> 
-      <link>
+      <Link href='/'>
       <a>Ir al Home</a>
-      </link>
+      </Link>
    </div>
     )
 }
